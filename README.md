@@ -1,2 +1,2 @@
 # wagnerraza.github.io
-Meu currículo. 
+Currículo Wagner Raza
